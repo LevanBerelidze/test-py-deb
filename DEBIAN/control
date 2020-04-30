@@ -1,0 +1,8 @@
+Package: testpy
+Version: 0.0.1
+Architecture: all
+Essential: no
+Priority: optional
+Depends: bash, screen, mc
+Maintainer: Levan Berelidze
+Description: Some test python script for displaying random messages. That’s it. This test script is dedicated for CS470 lab course.
